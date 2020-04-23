@@ -1,0 +1,16 @@
+D:\IE322_1636375\FORM1\FORM1\bin\Debug\FORM1.exe.config
+D:\IE322_1636375\FORM1\FORM1\bin\Debug\FORM1.exe
+D:\IE322_1636375\FORM1\FORM1\bin\Debug\FORM1.pdb
+D:\IE322_1636375\FORM1\FORM1\obj\Debug\FORM1.csprojAssemblyReference.cache
+D:\IE322_1636375\FORM1\FORM1\obj\Debug\FORM1.Form1.resources
+D:\IE322_1636375\FORM1\FORM1\obj\Debug\FORM1.Properties.Resources.resources
+D:\IE322_1636375\FORM1\FORM1\obj\Debug\FORM1.csproj.GenerateResource.cache
+D:\IE322_1636375\FORM1\FORM1\obj\Debug\FORM1.exe
+D:\IE322_1636375\FORM1\FORM1\obj\Debug\FORM1.pdb
+D:\IE322_1636375\FORM1\FORM1\obj\Debug\FORM1.FrmRadio.resources
+D:\IE322_1636375\FORM1\FORM1\obj\Debug\FORM1.FrmCheck.resources
+D:\IE322_1636375\FORM1\FORM1\obj\Debug\FORM1.FrmComb.resources
+D:\IE322_1636375\FORM1\FORM1\obj\Debug\FORM1.FrmRandom.resources
+D:\IE322_1636375\FORM1\FORM1\obj\Debug\FORM1.FrmImage.resources
+D:\IE322_1636375\FORM1\FORM1\obj\Debug\FORM1.frmRandomCombo.resources
+D:\IE322_1636375\FORM1\FORM1\obj\Debug\FORM1.csproj.CoreCompileInputs.cache
